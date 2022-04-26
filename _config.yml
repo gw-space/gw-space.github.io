@@ -1,6 +1,6 @@
-title:              gw-space
+title:              GW SPACE
 email:              gunwooyoon@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        Welcome to GW's Space
 author:             Start Bootstrap
 baseurl:            ""
 url:                "https://gw-space.github.io"
@@ -22,4 +22,4 @@ paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+    #  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
