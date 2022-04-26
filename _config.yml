@@ -2,7 +2,7 @@ title:              GW SPACE
 email:              gunwooyoon@gmail.com
 description:        Welcome to GW's Space
 author:             Start Bootstrap
-baseurl:            ""
+baseurl:            "/gw-space.github.io/"
 url:                "https://gw-space.github.io"
 
 # Social Profiles
